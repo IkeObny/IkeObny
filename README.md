@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IkeObny
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python/с++
+- 💞️ I’m looking to collaborate on also programmer
